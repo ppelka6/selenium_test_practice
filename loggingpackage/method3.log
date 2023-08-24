@@ -1,0 +1,4 @@
+08/23/2023 11:10:15 AM: INFO: info message
+08/23/2023 11:10:15 AM: WARNING: warn message
+08/23/2023 11:10:15 AM: ERROR: error message
+08/23/2023 11:10:15 AM: CRITICAL: critical message
